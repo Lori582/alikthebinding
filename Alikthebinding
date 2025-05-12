@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alik: The Binding</title>
+</head>
+<body style="margin: 0; display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <iframe src="https://scratch.mit.edu/projects/863803283/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</body>
+</html>
